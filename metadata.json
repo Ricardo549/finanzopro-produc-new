@@ -1,0 +1,7 @@
+{
+  "name": "Finanzo Pro New",
+  "description": "Consultoria financeira inteligente com personalidade de Brother.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
